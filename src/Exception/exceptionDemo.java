@@ -31,10 +31,17 @@ public class exceptionDemo {
 		System.out.println(a[pos]);
 		*/
 		
+		
+		/*
 		//Example 3
 		String s="welcome";
 		System.out.println(Integer.parseInt(s));
+		*/
 		
+		
+		//Example 4
+		String s=null;
+		System.out.println(s.length());  //NullPointerException
 		
 		
 		
