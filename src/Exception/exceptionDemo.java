@@ -45,8 +45,6 @@ public class exceptionDemo {
 		
 		
 		
-		
-		
 		System.out.println("Program is completed");
 		System.out.println("Program is exited");
 
